@@ -1,0 +1,8 @@
+{
+  "outcome": "succeeded",
+  "fix_type": "transient",
+  "resume_from": "codegen",
+  "message": "Pipeline resumed from codegen and finished.",
+  "log": "projects/ColorCircuit/.resume-20260824-190458.log",
+  "attempted_at_epoch": 1787593825
+}
